@@ -19,8 +19,11 @@ In Professor Casini’s group, I gained interdisciplinary experience that deepen
 **Ruthenium–Picolinic Complexes for Redox-Active Therapeutics**  
 I synthesized ruthenium–picolinic (2) and –picolinamide complexes (4) designed as redox-active therapeutic candidates capable of inducing reductive stress in cancer cells (Figure 1). Through ligand modification and hydride formation experiments, I examined how subtle electronic and structural changes affect the stability and redox potential of the resulting complexes. Using NMR analyses, I confirmed successful hydride formation. This work revealed structure-activity relationships in transition-metal redox chemistry and inspired my interest in the power of rational ligand design for biocompatible catalytic systems.
 
-**Figure 1:**  
-(a) Hydride formation of Ru–picolinic complex, and (b) of Ru–picolinamide complex
+<figure>
+  <img src="{{ '/images/figure1.png' | relative_url }}" alt="Hydride formation of Ru complexes">
+  <figcaption>Figure 1: (a) Hydride formation of Ru–picolinic complex, and (b) of Ru–picolinamide complex</figcaption>
+</figure>
+
 
 **Peptide Synthesis and On-Resin Cyclization**  
 Additionally, I contributed to the solid-phase synthesis and on-resin cyclization of peptides, constructing an oligopeptide sequence through iterative coupling and deprotection steps (6) (Figure 2). This project honed my skills in reaction optimization and purification, with mass spectrometry confirming successful peptide synthesis. Although gold complex coupling was unsuccessfully attempted, the work deepened my understanding of selectivity challenges in peptide assembly and sparked my interest in designing metal-peptide conjugates and cyclic scaffolds for drug delivery.
