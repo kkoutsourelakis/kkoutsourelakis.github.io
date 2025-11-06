@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * **William & Mary (W&M), Williamsburg, VA, USA**  
-  B.S in Chemistry, minor in Mathematics. GPA 3.91/4.00 — Expected: May 2026
+  B.Sc. in Chemistry, minor in Mathematics. GPA 3.91/4.00 — Expected: May 2026
 
 * **Study Abroad, University of St. Andrews, St Andrews, Scotland**  
   Coursework in Medicinal Chemistry and Drug Development. GPA 3.91/4.00 — July 2023 – August 2023
