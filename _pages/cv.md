@@ -1,3 +1,16 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+nav_order: 1
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+
 Education
 ======
 * **William & Mary (W&M), Williamsburg, VA, USA**  
