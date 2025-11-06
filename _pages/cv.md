@@ -14,13 +14,13 @@ redirect_from:
 Education
 ======
 * **William & Mary (W&M), Williamsburg, VA, USA**  
-  B.Sc. in Chemistry, minor in Mathematics. GPA 3.91/4.00 — Expected: May 2026
+  B.Sc. in **Chemistry**, minor in **Mathematics**. GPA 3.91/4.00 — Expected: May 2026
 
 * **Study Abroad, University of St. Andrews, St Andrews, Scotland**  
-  Coursework in Medicinal Chemistry and Drug Development. GPA 3.91/4.00 — July 2023 – August 2023
+  Coursework in **Medicinal Chemistry** and **Drug Development**. GPA 3.91/4.00 — July 2023 – August 2023
 
 * **Bavarian International School, Haimhausen, DE**  
-  International Baccalaureate Diploma, 38/40 — August 2018 – May 2022  
+  International Baccalaureate Diploma, 40/42 — August 2018 – May 2022  
   - Chemistry - Higher Level (7/7), Mathematics - Higher Level (7/7), English A - Higher Level (6/7), Biology - Standard Level (7/7), Economics - Standard Level (7/7), German B - Standard Level (6/7)
 
 Research Experience
