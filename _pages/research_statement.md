@@ -19,33 +19,33 @@ I synthesized ruthenium–picolinic (2) and –picolinamide complexes (4) design
 <p id="fig1">
   <img src="{{ '/images/figure1.png' | relative_url }}" alt="Hydride formation of Ru complexes">
   <figcaption>Figure 1: (a) Hydride formation of Ru–picolinic complex, and (b) of Ru–picolinamide complex</figcaption>
-</figure>
+</p>
 
 
 #### Peptide Synthesis and On-Resin Cyclization  
-Additionally, I contributed to the solid-phase synthesis and on-resin cyclization of peptides, constructing an oligopeptide sequence through iterative coupling and deprotection steps (6) (Figure 2). This project honed my skills in reaction optimization and purification, with mass spectrometry confirming successful peptide synthesis. Although gold complex coupling was unsuccessfully attempted, the work deepened my understanding of selectivity challenges in peptide assembly and sparked my interest in designing metal-peptide conjugates and cyclic scaffolds for drug delivery.
+Additionally, I contributed to the solid-phase synthesis and on-resin cyclization of peptides, constructing an oligopeptide sequence through iterative coupling and deprotection steps (6) ([Figure 2](#fig2))). This project honed my skills in reaction optimization and purification, with mass spectrometry confirming successful peptide synthesis. Although gold complex coupling was unsuccessfully attempted, the work deepened my understanding of selectivity challenges in peptide assembly and sparked my interest in designing metal-peptide conjugates and cyclic scaffolds for drug delivery.
 
-<figure>
+<p id="fig2">
   <img src="{{ '/images/figure2.png' | relative_url }}" alt="On-resin cyclization of GRKy amino acid sequence">
   <figcaption>Figure 2: On-resin cyclization of GRKy amino acid sequence</figcaption>
-</figure>
+</p>
 
 #### Ruthenium-Based Mass Tags for Proteomic Imaging
-In a third project, I worked on developing ruthenium-based mass tags for mass spectrometry imaging (MSI) to map biomolecules in tissues with high spatial resolution. I synthesized indole–pyridine derivatives and biotin-based linkers (10), optimizing purification using flash chromatography (Figure 3). This project demonstrated how organometallic synthesis can enhance analytical sensitivity through isotopically distinct tagging and inspired my interest in click-chemistry approaches for bioorthogonal, site-specific labeling in proteomic imaging and drug distribution studies.
+In a third project, I worked on developing ruthenium-based mass tags for mass spectrometry imaging (MSI) to map biomolecules in tissues with high spatial resolution. I synthesized indole–pyridine derivatives and biotin-based linkers (10), optimizing purification using flash chromatography ([Figure 3](#fig3)). This project demonstrated how organometallic synthesis can enhance analytical sensitivity through isotopically distinct tagging and inspired my interest in click-chemistry approaches for bioorthogonal, site-specific labeling in proteomic imaging and drug distribution studies.
 
-<figure>
+<p id="fig3">
   <img src="{{ '/images/figure3.png' | relative_url }}" alt="Mass tag linker coupling with biotin">
   <figcaption>Figure 3: Mass tag linker coupling reaction with biotin</figcaption>
-</figure>
+</p>
 
 ### Organic Synthesis and Bacterial Virulence Inhibition in the Taylor Lab
 
-More recently, I have joined the Taylor Lab at William & Mary, where I am expanding my training in organic synthesis of small molecules and exploring the chemical mechanisms underlying bacterial virulence regulation. I am currently synthesizing meta-bromo-thiolactone (mBTL), a small molecule that inhibits quorum sensing in *Pseudomonas aeruginosa*. Using a two-step route involving acid formation (12) and amide coupling with homocysteine thiolactone (15), I am learning to construct the thiolactone core of mBTL (Figure 4). mBTL binds to bacterial quorum-sensing receptors to disrupt bacterial communication and virulence, offering a promising anti-virulence strategy that reduces antibiotic resistance pressure. This project has allowed me to apply my synthetic background to a biologically relevant target and appreciate how small-molecule chemistry can modulate complex cellular behavior.
+More recently, I have joined the Taylor Lab at William & Mary, where I am expanding my training in organic synthesis of small molecules and exploring the chemical mechanisms underlying bacterial virulence regulation. I am currently synthesizing meta-bromo-thiolactone (mBTL), a small molecule that inhibits quorum sensing in *Pseudomonas aeruginosa*. Using a two-step route involving acid formation (12) and amide coupling with homocysteine thiolactone (15), I am learning to construct the thiolactone core of mBTL ([Figure 4](#fig4))). mBTL binds to bacterial quorum-sensing receptors to disrupt bacterial communication and virulence, offering a promising anti-virulence strategy that reduces antibiotic resistance pressure. This project has allowed me to apply my synthetic background to a biologically relevant target and appreciate how small-molecule chemistry can modulate complex cellular behavior.
 
-<figure>
+<p id="fig4">
   <img src="{{ '/images/figure4.png' | relative_url }}" alt="Two-step mBTL synthesis">
   <figcaption>Figure 4: (a) Two-step mBTL synthesis including an acid formation, and (b) amide coupling</figcaption>
-</figure>
+</p>
 
 ## Research Skills and Future Directions
 
