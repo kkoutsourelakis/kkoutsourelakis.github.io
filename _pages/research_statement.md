@@ -13,7 +13,7 @@ My research interests lie at the interface of synthetic and medicinal chemistry,
 
 In Professor Casini’s group, I gained interdisciplinary experience that deepened my commitment to pursuing graduate research. I worked on three projects that integrated organometallic chemistry, peptide synthesis, and analytical tagging strategies for anticancer research.
 
-**Ruthenium–Picolinic Complexes for Redox-Active Therapeutics**  
+#### Ruthenium–Picolinic Complexes for Redox-Active Therapeutics
 I synthesized ruthenium–picolinic (2) and –picolinamide complexes (4) designed as redox-active therapeutic candidates capable of inducing reductive stress in cancer cells ([Figure 1](#fig1)). Through ligand modification and hydride formation experiments, I examined how subtle electronic and structural changes affect the stability and redox potential of the resulting complexes. Using NMR analyses, I confirmed successful hydride formation. This work revealed structure-activity relationships in transition-metal redox chemistry and inspired my interest in the power of rational ligand design for biocompatible catalytic systems.
 
 <p id="fig1">
@@ -22,7 +22,7 @@ I synthesized ruthenium–picolinic (2) and –picolinamide complexes (4) design
 </figure>
 
 
-**Peptide Synthesis and On-Resin Cyclization**  
+#### Peptide Synthesis and On-Resin Cyclization  
 Additionally, I contributed to the solid-phase synthesis and on-resin cyclization of peptides, constructing an oligopeptide sequence through iterative coupling and deprotection steps (6) (Figure 2). This project honed my skills in reaction optimization and purification, with mass spectrometry confirming successful peptide synthesis. Although gold complex coupling was unsuccessfully attempted, the work deepened my understanding of selectivity challenges in peptide assembly and sparked my interest in designing metal-peptide conjugates and cyclic scaffolds for drug delivery.
 
 <figure>
@@ -30,7 +30,7 @@ Additionally, I contributed to the solid-phase synthesis and on-resin cyclizatio
   <figcaption>Figure 2: On-resin cyclization of GRKy amino acid sequence</figcaption>
 </figure>
 
-**Ruthenium-Based Mass Tags for Proteomic Imaging**  
+#### Ruthenium-Based Mass Tags for Proteomic Imaging
 In a third project, I worked on developing ruthenium-based mass tags for mass spectrometry imaging (MSI) to map biomolecules in tissues with high spatial resolution. I synthesized indole–pyridine derivatives and biotin-based linkers (10), optimizing purification using flash chromatography (Figure 3). This project demonstrated how organometallic synthesis can enhance analytical sensitivity through isotopically distinct tagging and inspired my interest in click-chemistry approaches for bioorthogonal, site-specific labeling in proteomic imaging and drug distribution studies.
 
 <figure>
