@@ -17,7 +17,7 @@ Education
   B.S in Chemistry, minor in Mathematics. GPA 3.91/4.00 — Expected: May 2026
 
 * **Study Abroad, University of St. Andrews, St Andrews, Scotland**  
-  Coursework in Medicinal Chemistry and Drug Development — July 2023 – August 2023
+  Coursework in Medicinal Chemistry and Drug Development. GPA 3.91/4.00 — July 2023 – August 2023
 
 * **Bavarian International School, Haimhausen, DE**  
   International Baccalaureate Diploma, 38/40 — August 2018 – May 2022  
