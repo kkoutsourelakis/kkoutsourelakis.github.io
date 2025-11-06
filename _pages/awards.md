@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Awards & Scholarships"
 permalink: /awads/
 author_profile: true
