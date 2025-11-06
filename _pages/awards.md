@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Awards & Scholarships"
 permalink: /awads/
 author_profile: true
