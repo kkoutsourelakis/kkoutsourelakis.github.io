@@ -2,7 +2,11 @@
 layout: single
 title: "Research Statement"
 permalink: /research_statement/
+author_profile: true
+share: false
+comments: false
 ---
+
 
 My research interests lie at the interface of synthetic and medicinal chemistry, where molecular design principles converge with biological function to address challenges in therapeutic discovery. During my summer internship in Professor Angela Casini’s Medicinal and Bioinorganic Chemistry group at the Technical University of Munich, Germany, and through my current work in the Taylor Lab at William & Mary, I have explored how chemical synthesis can inform biological mechanisms and guide the development of novel therapeutics. 
 
