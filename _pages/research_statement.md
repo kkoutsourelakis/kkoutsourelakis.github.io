@@ -14,9 +14,9 @@ My research interests lie at the interface of synthetic and medicinal chemistry,
 In Professor Casini’s group, I gained interdisciplinary experience that deepened my commitment to pursuing graduate research. I worked on three projects that integrated organometallic chemistry, peptide synthesis, and analytical tagging strategies for anticancer research.
 
 **Ruthenium–Picolinic Complexes for Redox-Active Therapeutics**  
-I synthesized ruthenium–picolinic (2) and –picolinamide complexes (4) designed as redox-active therapeutic candidates capable of inducing reductive stress in cancer cells (Figure 1). Through ligand modification and hydride formation experiments, I examined how subtle electronic and structural changes affect the stability and redox potential of the resulting complexes. Using NMR analyses, I confirmed successful hydride formation. This work revealed structure-activity relationships in transition-metal redox chemistry and inspired my interest in the power of rational ligand design for biocompatible catalytic systems.
+I synthesized ruthenium–picolinic (2) and –picolinamide complexes (4) designed as redox-active therapeutic candidates capable of inducing reductive stress in cancer cells ([Figure 1](#fig1)). Through ligand modification and hydride formation experiments, I examined how subtle electronic and structural changes affect the stability and redox potential of the resulting complexes. Using NMR analyses, I confirmed successful hydride formation. This work revealed structure-activity relationships in transition-metal redox chemistry and inspired my interest in the power of rational ligand design for biocompatible catalytic systems.
 
-<figure>
+<p id="fig1">
   <img src="{{ '/images/figure1.png' | relative_url }}" alt="Hydride formation of Ru complexes">
   <figcaption>Figure 1: (a) Hydride formation of Ru–picolinic complex, and (b) of Ru–picolinamide complex</figcaption>
 </figure>
