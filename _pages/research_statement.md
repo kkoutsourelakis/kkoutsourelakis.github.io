@@ -3,16 +3,14 @@ layout: single
 title: "Research Statement"
 permalink: /research_statement/
 author_profile: true
-share: false
-comments: false
 ---
 
 
 My research interests lie at the interface of synthetic and medicinal chemistry, where molecular design principles converge with biological function to address challenges in therapeutic discovery. During my summer internship in Professor Angela Casini’s Medicinal and Bioinorganic Chemistry group at the Technical University of Munich, Germany, and through my current work in the Taylor Lab at William & Mary, I have explored how chemical synthesis can inform biological mechanisms and guide the development of novel therapeutics. 
 
-### Research Experience
+## Research Experience
 
-#### Medicinal and Bioinorganic Chemistry with Professor Angela Casini
+### Medicinal and Bioinorganic Chemistry with Professor Angela Casini
 
 In Professor Casini’s group, I gained interdisciplinary experience that deepened my commitment to pursuing graduate research. I worked on three projects that integrated organometallic chemistry, peptide synthesis, and analytical tagging strategies for anticancer research.
 
@@ -41,7 +39,7 @@ In a third project, I worked on developing ruthenium-based mass tags for mass sp
   <figcaption>Figure 3: Mass tag linker coupling reaction with biotin</figcaption>
 </figure>
 
-#### Organic Synthesis and Bacterial Virulence Inhibition in the Taylor Lab
+### Organic Synthesis and Bacterial Virulence Inhibition in the Taylor Lab
 
 More recently, I have joined the Taylor Lab at William & Mary, where I am expanding my training in organic synthesis of small molecules and exploring the chemical mechanisms underlying bacterial virulence regulation. I am currently synthesizing meta-bromo-thiolactone (mBTL), a small molecule that inhibits quorum sensing in *Pseudomonas aeruginosa*. Using a two-step route involving acid formation (12) and amide coupling with homocysteine thiolactone (15), I am learning to construct the thiolactone core of mBTL (Figure 4). mBTL binds to bacterial quorum-sensing receptors to disrupt bacterial communication and virulence, offering a promising anti-virulence strategy that reduces antibiotic resistance pressure. This project has allowed me to apply my synthetic background to a biologically relevant target and appreciate how small-molecule chemistry can modulate complex cellular behavior.
 
@@ -50,7 +48,7 @@ More recently, I have joined the Taylor Lab at William & Mary, where I am expand
   <figcaption>Figure 4: (a) Two-step mBTL synthesis including an acid formation, and (b) amide coupling</figcaption>
 </figure>
 
-### Research Skills and Future Directions
+## Research Skills and Future Directions
 
 Through these projects, I developed proficiency in synthetic organic and organometallic chemistry, solid-phase peptide synthesis, and analytical characterization. I learned to view chemical synthesis as a tool to interrogate and manipulate biological systems, which has fueled my curiosity about the molecular principles underlying complex cellular behavior. I am particularly excited by the prospect of designing molecules that reveal mechanistic insights into cellular processes, such as redox regulation in cancer or quorum-sensing pathways in pathogenic bacteria. 
 
