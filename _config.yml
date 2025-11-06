@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Karis Koutsourelakis / Personal Webpage"
+title                    : "Karis Koutsourelakis - Personal Webpage"
 title_separator          : "-"
 name                     : &name "Karis Koutsourelakis"
 description              : &description "Karis Koutsourelakis's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
