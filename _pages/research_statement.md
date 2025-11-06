@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Awards & Scholarships"
-permalink: /awards/
+title: "Research Statement"
+permalink: /research_statement/
 ---
 
 ## Honors and Awards
