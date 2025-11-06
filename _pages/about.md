@@ -17,3 +17,5 @@ For more details about my work and background, see:
 - [Curriculum Vitae](./cv/)  
 - [Awards & Scholarships](./awards/)  
 - [Research Statement](./research_statement/)
+- [Publications](./publications/)
+
