@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: archive
 title: "Awards & Scholarships"
-permalink: /awards/
+permalink: /awads/
+author_profile: true
 ---
+
+{% if site.talkmap_link == true %}
+
 
 ## Honors and Awards
 
