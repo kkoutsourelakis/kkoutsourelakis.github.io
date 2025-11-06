@@ -15,7 +15,7 @@ main:
     url: /awards/
 
   - title: "Research Statement"
-    url: /talks/    
+    url: /research_statement/    
 
   - title: "Teaching"
     url: /teaching/    
