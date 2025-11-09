@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "B.Sc. in Chemistry, minor in Mathematics"
   location         : "Williamsburgh, VA"
-  employer         : "[College of William & Mary](https://www.wm.edu)"
-  uri              : # URL
+  employer         : "College of William & Mary"
+  uri              : "https://www.wm.edu"
   email            : "kkoutsourelakis@wm.edu" 
 
   # Academic websites
