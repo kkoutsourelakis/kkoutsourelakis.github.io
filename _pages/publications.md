@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-The following is a technical report summarizing my activities in **Professor Angela Casini’s Medicinal and Bioinorganic Chemistry Laboratory** at the Technical University of Munich (TUM).
+The following is a technical report summarizing my activities in [Professor Angela Casini’s Medicinal and Bioinorganic Chemistry Laboratory at the Technical University of Munich (TUM)](https://www.ch.tum.de/en/casini-group/).
 
 ---
 
