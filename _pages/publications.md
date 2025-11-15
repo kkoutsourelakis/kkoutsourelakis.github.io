@@ -1,6 +1,7 @@
 ---
 layout: single
-title: "Reports"
+title: "Publications"       # stays internal page title
+nav_title: "Reports"        # label shown in the menu
 permalink: /publications/
 ---
 
