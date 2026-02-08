@@ -50,7 +50,8 @@ redirect_from:
   - Completed W&M Office of Environmental Health & Safety and Department of Chemistry safety training.
 
 * **Chemistry & Mathematics Tutor** — W&M TutorZone, Williamsburg, VA, January 2026 – Present  
-  - One-on-one tutoring in general, organic, and physical chemistry and mathematics.  
+  - One-on-one tutoring in general, organic, and physical chemistry and mathematics.
+  - Explain complex quantitative and chemical concepts clearly to students with diverse academic backgrounds.
   - Support students with problem-solving, exam preparation, and conceptual understanding.
 
 ---
