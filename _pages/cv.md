@@ -41,12 +41,19 @@ Teaching / Mentoring Experience
 ======
 * **General & Organic Chemistry Lab Grader & Teaching Assistant**  
   W&M, Williamsburg, VA — August 2024 – Present  
-  - Evaluate and grade undergraduate lab reports, pre-lab assignments, and exams using Gradescope.  
+  - Evaluate and grade undergraduate General Chemistry and Organic Chemistry lab reports, pre-lab assignments, and exams using Gradescope, ensuring consistent assessment across sections.
   - Collaborate with lab instructors and TAs to uphold grading standards and academic integrity.  
-  - Assist students in mastering lab techniques, safety protocols, and course content.  
-  - Supervise lab activities and provide guidance on experimental procedures, data analysis, and chemical concepts.  
+  - Assist undergraduate students in mastering lab techniques, safety protocols, and course content. 
+  - Supervise lab activities, ensuring proper execution of experiments and adherence to safety regulations.
+  - Provide guidance on experimental procedures, data analysis, and chemical concepts.
   - Completed W&M Office of Environmental Health & Safety and Department of Chemistry safety training.
 
+ * **Chemistry and Mathematics Tutor**  
+     W&M, Williamsburg, VA — January 2024 – Present
+   - Provide one-on-one tutoring in undergraduate Chemistry (general, organic, and physical) and Mathematics.
+   - Explain complex quantitative and chemical concepts clearly to students with diverse academic backgrounds.
+   - Support students in problem-solving strategies, exam preparation, effective study techniques, and conceptual understanding.
+   
 Work History
 ======
 * **Marketing Intern, Bipsync, Remote** — May 2023 – May 2025  
