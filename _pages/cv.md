@@ -49,7 +49,7 @@ Teaching / Mentoring Experience
   - Completed W&M Office of Environmental Health & Safety and Department of Chemistry safety training.
 
  * **Chemistry and Mathematics Tutor**  
-     W&M, Williamsburg, VA — January 2024 – Present
+     W&M, Williamsburg, VA — January 2026 – Present
    - Provide one-on-one tutoring in undergraduate Chemistry (general, organic, and physical) and Mathematics.
    - Explain complex quantitative and chemical concepts clearly to students with diverse academic backgrounds.
    - Support students in problem-solving strategies, exam preparation, effective study techniques, and conceptual understanding.
