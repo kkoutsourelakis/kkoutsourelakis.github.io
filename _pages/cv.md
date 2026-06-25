@@ -12,8 +12,11 @@ redirect_from:
 
 # Education
 
+* **EPFL, Lausanne, Switzerland**  
+  M.Sc. in **Molecular and Biological Chemistry**, 2026-
+  
 * **William & Mary (W&M), Williamsburg, VA, USA**  
-  B.Sc. in **Chemistry**, minor in **Mathematics**, GPA 3.91/4.00 — Expected: May 2026
+  B.Sc. in **Chemistry**, minor in **Mathematics**, GPA 3.91/4.00 — 2026
 
 * **Study Abroad, University of St. Andrews, St Andrews, Scotland**  
   Coursework in **Medicinal Chemistry** and **Drug Development**, GPA 3.91/4.00 — July 2023 – August 2023
