@@ -25,3 +25,9 @@ permalink: /awards/
 
 - **Marga Larson Bales Scholarship** — Fall 2025 – Spring 2026  
   Awarded to chemistry majors who are interested in teaching.
+
+- **Andrews Chemistry Undergraduate Teaching Assistant Award** — May 2026  
+  Recognized for outstanding teaching and student support
+
+
+
