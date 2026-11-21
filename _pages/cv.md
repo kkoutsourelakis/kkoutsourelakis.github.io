@@ -122,3 +122,6 @@ Laboratory of Biophysical Chemistry of Macromolecules , EPFL, Lausanne, Switzerl
 
 * **Marga Larson Bales Scholarship** — Fall 2025 – Spring 2026  
   Awarded to chemistry majors interested in teaching.
+
+* **Andrews Chemistry Undergraduate Teaching Assistant Award** — May 2026  
+  Recognized for outstanding teaching and student support
