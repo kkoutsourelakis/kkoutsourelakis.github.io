@@ -16,10 +16,10 @@ redirect_from:
   M.Sc. in **Molecular and Biological Chemistry**, 2026-
   
 * **William & Mary (W&M), Williamsburg, VA, USA**  
-  B.Sc. in **Chemistry**, minor in **Mathematics**, GPA 3.91/4.00 — 2026
+  B.Sc. in **Chemistry**, minor in **Mathematics**, Summa Cum Laude, GPA 3.92/4.00 — 2026
 
 * **Study Abroad, University of St. Andrews, St Andrews, Scotland**  
-  Coursework in **Medicinal Chemistry** and **Drug Development**, GPA 3.91/4.00 — July 2023 – August 2023
+  Coursework in **Medicinal Chemistry** and **Drug Development**, GPA 4.00/4.00 — July 2023 – August 2023
 
 * **Bavarian International School, Haimhausen, DE**  
   International Baccalaureate Diploma, 40/42 — August 2018 – May 2022  
@@ -29,7 +29,13 @@ redirect_from:
 
 # Research Experience
 
-* **Researcher, Taylor Lab** — W&M, Williamsburg, VA, September 2025 – Present  
+* ** Student Researcher** —	EPFL,  September 2026 – January 2027
+Laboratory of Biophysical Chemistry of Macromolecules , EPFL, Lausanne, Switzerland
+     - Conducting a semester-long research project (Project Ia) studying tubulin and myosin biochemistry.
+     - Designed HiFi assembly primers and performed PCR mutagenesis of myosin, obtaining a sequence-verified mutant construct.
+     - Optimized sortase-mediated ligation on 4 tubulin types, identifying pH 7.8 as optimal to minimize hydrolysis and reaching ~75% ligation efficiency.
+    
+* **Researcher, Taylor Lab** — W&M, Williamsburg, VA, September 2025 – May 2026  
   Advisor: Professor Isabelle Taylor  
   - Conducting organic synthesis of meta-bromo-thiolactone (mBTL), a small molecule inhibitor of quorum sensing in *Pseudomonas aeruginosa*.  
   - Investigating chemical mechanisms of bacterial virulence regulation to inform anti-virulence strategies.  
