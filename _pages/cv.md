@@ -29,7 +29,7 @@ redirect_from:
 
 # Research Experience
 
-* ** Student Researcher** —	EPFL,  September 2026 – January 2027
+* **Stundent Researcher** —	EPFL,  September 2026 – January 2027
 Laboratory of Biophysical Chemistry of Macromolecules , EPFL, Lausanne, Switzerland
      - Conducting a semester-long research project (Project Ia) studying tubulin and myosin biochemistry.
      - Designed HiFi assembly primers and performed PCR mutagenesis of myosin, obtaining a sequence-verified mutant construct.
